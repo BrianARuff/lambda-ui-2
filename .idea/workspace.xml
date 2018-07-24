@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e918898-fd43-4a08-8c6b-971b64af100e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/brff19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/great-idea-website/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/great-idea-website/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/great-idea-website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/great-idea-website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/User-Interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/brff19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-files/desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/great-idea-website/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/great-idea-website/img/header-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/great-idea-website/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/great-idea-website/img/mid-page-accent.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/great-idea-website/index.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
